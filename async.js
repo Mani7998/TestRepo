@@ -1,7 +1,7 @@
 exports = async function() {
      // Supply projectID and clusterName...
     const projectID = '603ce6b799758b5d75cb40ea';
-    const clusterName = 'tryapplaud-us-db-mg';
+    const clusterName = 'tdevelopment';
     
      // Get stored credentials...
     const username = context.values.get("AtlasPublicKey");
